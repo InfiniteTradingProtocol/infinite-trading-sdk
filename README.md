@@ -1,4 +1,3 @@
-```markdown
 # Infinite Trading SDK v1
 
 Welcome to the Infinite Trading SDK v1 README. This SDK is designed to provide managers and strategy providers with a powerful toolset for seamlessly deploying, managing, and executing trading strategies using R or Python. By integrating directly with the Infinite Trading API, this SDK allows for running continuous strategies, including pre-made setups such as crossovers, RSI, and other technical indicators. These strategies are deployable directly to dHedge and other supported protocols and centralized exchanges.
@@ -27,7 +26,6 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/infinite-trading-protocol/infinite-trading-sdk-v1.git
    ```
-
 2. **Install Python dependencies**:
    ```bash
    pip install -r requirements.txt
