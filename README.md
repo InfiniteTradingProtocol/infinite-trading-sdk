@@ -54,8 +54,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Disclaimer
 
-All trading strategies are used at your own risk. Ensure you fully understand the risks associated with automated trading before using this SDK.
-
-```
-
-This README provides a comprehensive guide for getting started with the Infinite Trading SDK v1, including installation, configuration, and basic usage instructions. It's structured to help both new and experienced users quickly begin deploying and testing trading strategies.
+All trading strategies are used at your own risk. Ensure you fully understand the risks associated with automated trading before using this SDK. This README provides a comprehensive guide for getting started with the Infinite Trading SDK v1, including installation, configuration, and basic usage instructions. It's structured to help both new and experienced users quickly begin deploying and testing trading strategies.
